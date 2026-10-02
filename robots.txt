@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-b89f907eb3.fjqly.com/sitemap.xml
